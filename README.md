@@ -1,5 +1,5 @@
 # Project description
-This project is an implementation for the "CCC Analytics Data Engineering Take Home Assignment." by Exadel with the below description:
+This project is an implementation for the below description:
 
 Build a Python application to:
 - First, retrieve all English language news sources. Use the language filter in
